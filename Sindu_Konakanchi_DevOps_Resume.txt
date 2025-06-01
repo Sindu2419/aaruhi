@@ -1,0 +1,69 @@
+
+Sindu Konakanchi
+📞 +91-78925 12348 | ✉️ sinduk508@gmail.com
+
+Career Objective
+Experienced DevOps Engineer with 4.5 years of hands-on expertise in Azure cloud infrastructure, Jenkins CI/CD pipelines, Bitbucket for version control, and Ansible for configuration management. Adept at managing hybrid environments, automating deployments, optimizing cloud resources, and ensuring system reliability and scalability.
+
+Summary
+- 4.5 years of IT experience, including 4 years as a DevOps Engineer in Azure and hybrid environments.
+- Skilled in deploying and maintaining on-premise and cloud-based web servers.
+- Proficient in building CI/CD pipelines using Jenkins and integrating with Bitbucket.
+- Automated server provisioning and application deployments using Ansible.
+- Deep understanding of Azure infrastructure (VMs, VNETs, Storage, AD).
+- Developed scripts for identifying and cleaning up unused resources to optimize costs.
+- Managed VM backups, resizing, patching, and troubleshooting.
+- Committed to implementing cloud security best practices and compliance standards.
+
+Technical Skills
+
+Category                  | Tools & Technologies
+--------------------------|---------------------------------------------------
+Cloud Platforms           | Microsoft Azure (IaaS, PaaS), On-Premise
+Operating Systems         | Windows, Linux
+Configuration Management  | Ansible
+CI/CD Tools               | Jenkins, Azure DevOps
+Version Control           | Bitbucket, Git, GitHub
+Scripting & IaC           | PowerShell, Terraform, ARM Templates
+
+Professional Experience
+
+Virtusa – Azure DevOps Engineer
+📍 May 2022 – June 2023
+Key Responsibilities:
+- Designed and managed Jenkins CI/CD pipelines for automated builds and deployments.
+- Automated infrastructure configurations with Ansible across Azure and on-premise servers.
+- Maintained Azure VMs, storage accounts, snapshots, and backups.
+- Integrated Bitbucket with Jenkins for streamlined deployments.
+- Implemented automation scripts to identify and decommission idle Azure resources.
+- Monitored production systems and performed root cause analysis for incidents.
+
+Rlabs Global Pvt Ltd – Support Engineer
+📍 March 2018 – July 2021
+Key Responsibilities:
+- Provisioned Azure VMs using Azure Portal and Terraform.
+- Handled server patching, disk expansion, backups, and restoration tasks.
+- Created PowerShell and Ansible scripts to automate recurring support activities.
+- Managed Azure Active Directory and implemented RBAC policies.
+- Resolved infrastructure tickets and supported application teams.
+
+Project Highlights
+
+Project: Kaiser Permanente – Azure DevOps Engineer
+- Developed Jenkins-based CI/CD integrated with Bitbucket and Ansible.
+- Automated resource cleanup for Azure cost optimization.
+- Audited and secured NSG configurations.
+
+Project: Track Connect – DevOps Engineer
+- Managed application deployments in Azure and on-prem environments.
+- Automated infrastructure using Ansible and Jenkins.
+- Ensured compliance by patching and securing web servers.
+
+Project: Philips – Support Engineer
+- Provisioned VMs and managed storage across environments.
+- Deployed applications on web servers and maintained uptime.
+- Wrote utility scripts to reduce manual tasks.
+
+Education
+Bachelor of Technology (B.Tech)
+Jawaharlal Nehru Technological University, Hyderabad
